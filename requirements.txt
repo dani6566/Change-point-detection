@@ -1,0 +1,9 @@
+numpy>=1.24.0
+pandas
+pymc3
+seaborn
+matplotlib
+statsmodels
+theano
+arviz
+scipy
